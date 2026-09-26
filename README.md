@@ -1,4 +1,4 @@
-# omarchy-menu-sysmon
+# omarchy-bar-sysmon
 
 **System monitor bar widget for [Omarchy](https://omarchy.org/).** Live CPU, RAM,
 disk, network throughput, fan RPM and CPU temperature in the Omarchy status bar —
